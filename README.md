@@ -7,7 +7,7 @@
 - 💬 Ask me about mobile applications, back and em c#
 - 📫 How to reach me: https://www.linkedin.com/in/wesley-aoki-schuab-vieira-4368a0270/
 - ### Eꜱᴛᴀᴛɪꜱᴛɪᴄᴀꜱ ɢᴇʀᴀɪꜱ
-
+<!--
 <p align="center">
   <img height="200px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySchuab;layout=compact&amp;langs_count=10&amp;theme=merko&amp;hide=prolog,rich%20text%20format,html&amp"
@@ -16,7 +16,7 @@
     src="https://github-readme-stats.vercel.app/api?username=WesleySchuab;&hide=prs,issues,contribs&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" 
   />
 </p>
-
+-->
 ##
 ![](https://visitor-badge.laobi.icu/badge?page_id=WesleySchuab.WesleySchuab&title=Visitas:)
 
