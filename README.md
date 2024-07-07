@@ -11,7 +11,7 @@
 
   - 🌱 I’m currently studying at IFSCP CJO <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Mobile development.
 </p>
 
 <!-- Dropdown 
@@ -25,11 +25,15 @@
 -->
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesleyschuab?utm_source=qr&igsh=MWw0aTEwYjlxbnFnZQ==))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesleyschuab?utm_source=qr&igsh=MWw0aTEwYjlxbnFnZQ==)
 [![LinkedIn](www.linkedin.com/in/wesley-aoki-schuab-vieira)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleySchuab&show_icons=true&theme=gotham)
+<p align="center">
+  <img height="200px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySchuab&amp;layout=compact&amp;langs_count=10&amp;theme=merko&amp;hide=prolog,rich%20text%20format,html&amp"
+  />
+![WesleySchuab GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleySchuab&show_icons=true&theme=gotham)
 
 <!-- Portfolio 
 ## Portfolio:
