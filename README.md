@@ -41,7 +41,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySchuab&amp;layout=compact&amp;langs_count=10&amp;theme=merko&amp;hide=prolog,rich%20text%20format,html&amp"
   />
    <img height="110px" widht="100" 
-    src="https://github-readme-stats.vercel.app/api?username=J-AugustoManzano&amp;&hide=prs,issues,contribs&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=WesleySchuab&amp;&hide=prs,issues,contribs&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" 
   />
 </p>
 <p align="left">
