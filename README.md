@@ -9,7 +9,7 @@
   Hi 👋, I'm Wesley! A passionate systems development student from Brazil.
   - 🔭 I’m currently working on Fusion TI
 
-  - 🌱 I’m currently studying at IFSCP CJO <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying at IFSCP CJO <img align="center" alt="html5" src="https://ifsp.edu.br/images/reitoria/AssessoriaComunicacao/Comunica_02VersoesMarca.png"/>
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Mobile development.
 </p>
@@ -29,12 +29,6 @@
 [![LinkedIn](www.linkedin.com/in/wesley-aoki-schuab-vieira)
 
 <!-- GithubStats -->
-<p align="center">
-  <img height="200px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySchuab&amp;layout=compact&amp;langs_count=10&amp;theme=merko&amp;hide=prolog,rich%20text%20format,html&amp"
-  />
-![WesleySchuab GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleySchuab&show_icons=true&theme=gotham)
-
 <!-- Portfolio 
 ## Portfolio:
 - [sabor-express](https://github.com/WesleySchuab/sabor-express)
