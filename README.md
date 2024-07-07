@@ -9,7 +9,7 @@
   Hi 👋, I'm Wesley! A passionate systems development student from Brazil.
   - 🔭 I’m currently working on Fusion TI
 
-  - 🌱 I’m currently studying at IFSCP CJO <img align="center" alt="html5" src="https://ifsp.edu.br/images/reitoria/AssessoriaComunicacao/Comunica_02VersoesMarca.png"/>
+  - 🌱 I’m currently studying at IFSCP CJO <img align="center" alt="html5" src="https://www.ifspcjo.edu.br/images/Artboard_1_copy_3.png"/>
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Mobile development.
 </p>
@@ -27,7 +27,6 @@
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesleyschuab?utm_source=qr&igsh=MWw0aTEwYjlxbnFnZQ==)
 [![LinkedIn](www.linkedin.com/in/wesley-aoki-schuab-vieira)
-
 <!-- GithubStats -->
 <!-- Portfolio 
 ## Portfolio:
