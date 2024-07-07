@@ -40,10 +40,9 @@
   <img height="200px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySchuab&amp;layout=compact&amp;langs_count=10&amp;theme=merko&amp;hide=prolog,rich%20text%20format,html&amp"
   />
-  ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleySchuab&show_icons=true&theme=gotham)
-</p>
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img height="110px" widht="100" 
+    src="https://github-readme-stats.vercel.app/api?username=WesleySchuab&amp;&hide=prs,issues,contribs&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" 
+  />
 </p>
 
 ## 🔥 Skills
